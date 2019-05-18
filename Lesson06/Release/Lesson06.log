@@ -1,0 +1,8 @@
+﻿  Demo.cpp
+d:\kuliah\semester 6\pemrograman game\kode program\pemrograman_game\vs\lesson06\game.h(65): error C2535: 'void Engine::Game::Err(std::string)': member function already defined or declared
+  d:\kuliah\semester 6\pemrograman game\kode program\pemrograman_game\vs\lesson06\game.h(51): note: see declaration of 'Engine::Game::Err'
+d:\kuliah\semester 6\pemrograman game\kode program\pemrograman_game\vs\lesson06\demo.cpp(292): warning C4305: '=': truncation from '<unnamed-enum-SDLK_UNKNOWN>' to 'float'
+d:\kuliah\semester 6\pemrograman game\kode program\pemrograman_game\vs\lesson06\demo.cpp(301): warning C4305: '=': truncation from '<unnamed-enum-SDLK_UNKNOWN>' to 'float'
+  Game.cpp
+d:\kuliah\semester 6\pemrograman game\kode program\pemrograman_game\vs\lesson06\game.h(65): error C2535: 'void Engine::Game::Err(std::string)': member function already defined or declared
+  d:\kuliah\semester 6\pemrograman game\kode program\pemrograman_game\vs\lesson06\game.h(51): note: see declaration of 'Engine::Game::Err'
